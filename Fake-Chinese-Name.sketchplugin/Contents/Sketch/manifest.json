@@ -1,0 +1,29 @@
+{
+	"author": "JJ Ying",
+	"identifier" : "com.jjying.sketch.fake-chinese-name",
+	"version" : "0.1",
+	"description" : "生成中文假名",
+	"authorEmail" : "yingjunjiu@gmail.com",
+	"homepage": "http://jjying.com",
+	"name" : "中文姓名生成器",
+	"commands" : [
+		{
+			"script" : "script.cocoascript",
+			"name" : "生成人名",
+			"shortcut": "ctrl option r",
+			"handlers" : {
+				"run" : "onRun"
+			},
+			"identifier" : "lorem-a"
+		}
+
+	],
+	"menu": {
+		"title" : "生成人名",
+		"isRoot" : true,
+		"items": [
+		  "lorem-a"
+		]
+
+	}
+}
