@@ -4,7 +4,7 @@
 ![](http://s.anw.red/iconmoon/fake-chinese-name.gif)
 
 # 使用方法
-- [**点击下载**](https://github.com/JJYing/Fake-Chinese-Name-for-Sketch/raw/master/Releases/Fake-Chinese-Name-Latest.zip)之后解压
+- [**点击下载**](https://github.com/JJYing/Fake-Chinese-Name-for-Sketch/raw/master/releases/Fake-Chinese-Name-Latest.zip)之后解压
 - 运行（直接双击）**Fake-Chinese-Name.sketchplugin** 文件即可完成安装
 - 在 Sketch 文档中选中想要生成姓名的文本框（一个或多个）然后点击菜单栏中的「**Plugins > 生成人名**」，对应的快捷键是「**Control + Option + R**」
 
