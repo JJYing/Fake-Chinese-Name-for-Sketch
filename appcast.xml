@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>中文假名生成插件</title>
+    <link>https://raw.githubusercontent.com/JJYing/Fake-Chinese-Name-for-Sketch/master/appcast.xml</link>
+    <description>生成随机中文人名的 Sketch 插件</description>
+    <language>en</language>
+    <item>
+      <title>V0.2</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>增加了自动更新的支持</li>
+              <li>增加了图标</li>
+            </ul>
+          ]]>
+      </description>
+      <enclosure url="https://github.com/JJYing/Fake-Chinese-Name-for-Sketch/raw/master/Releases/Fake-Chinese-Name.0.2.zip" sparkle:version="0.2"/>
+    </item>
+    <item>
+      <title>V0.1</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>初始版本</li>
+            </ul>
+          ]]>
+      </description>
+      <enclosure url="https://github.com/JJYing/Fake-Chinese-Name-for-Sketch/raw/master/Releases/Fake-Chinese-Name.0.1.zip" sparkle:version="0.1"/>
+    </item>
+  </channel>
+</rss>

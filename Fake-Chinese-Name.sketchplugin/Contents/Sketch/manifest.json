@@ -1,11 +1,14 @@
 {
 	"author": "JJ Ying",
 	"identifier" : "com.jjying.sketch.fake-chinese-name",
-	"version" : "0.1",
+	"version" : "0.2",
 	"description" : "生成中文假名",
 	"authorEmail" : "yingjunjiu@gmail.com",
-	"homepage": "http://jjying.com",
+	"homepage": "https://github.com/JJYing/Fake-Chinese-Name-for-Sketch",
+	"appcast": "https://raw.githubusercontent.com/JJYing/Fake-Chinese-Name-for-Sketch/master/appcast.xml",
 	"name" : "中文姓名生成器",
+	"compatibleVersion": 50,
+	"icon": "icons/icon.png",
 	"commands" : [
 		{
 			"script" : "script.cocoascript",
